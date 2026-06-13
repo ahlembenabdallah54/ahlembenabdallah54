@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Ahlem Banner" />
+  <img src="./banner (2).png" alt="Ahlem Banner" />
 </p>
 # Hi 👋, I'm Ahlem Ben Abdallah
 
