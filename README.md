@@ -18,33 +18,32 @@ Building intelligent applications with AI, RAG Systems, Automation, and Modern W
 
 ## 🚀 Tech Stack
 
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,nestjs,vue,spring,mongodb,mysql,postgres,git,github,vscode,postman,pytorch" />
+  <img src="https://cdn.simpleicons.org/pandas" width="48" height="48" alt="Pandas"/>
+  <img src="https://cdn.simpleicons.org/langchain" width="48" height="48" alt="LangChain"/>
+  <img src="https://cdn.simpleicons.org/ollama" width="48" height="48" alt="Ollama"/>
+  <img src="https://cdn.simpleicons.org/powerbi" width="48" height="48" alt="Power BI"/>
+  <img src="https://cdn.simpleicons.org/n8n" width="48" height="48" alt="n8n"/>
 </p>
 
-### 🌐 Web Development
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,nestjs,vue,spring" />
-</p>
+## 📊 GitHub Stats
 
-### 🗄️ Databases
+![Ahlem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=tokyonight)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=tokyonight)
 
-### 🛠️ Tools
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+## 🌱 Currently Learning
 
-### 🤖 AI & Data Science
-
-Machine Learning • Scikit-Learn • LangChain • RAG • Ollama • Prompt Engineering • LLM Integration • Power BI • n8n
+* Agentic AI Systems
+* Advanced RAG Architectures
+* AI Agents & Automation
+* LLM Applications
+* Scalable Full-Stack Development
 
 ---
 
@@ -52,4 +51,8 @@ Machine Learning • Scikit-Learn • LangChain • RAG • Ollama • Prompt En
 
 📧 **[ahlembenabdallah66@gmail.com](mailto:ahlembenabdallah66@gmail.com)**
 
-💼 **LinkedIn:** [www.linkedin.com/in/ahlem-benabdallah-4a467a2a6](http://www.linkedin.com/in/ahlem-benabdallah-4a467a2a6)
+💼 **LinkedIn:** https://linkedin.com/in/ahlem-benabdallah-4a467a2a6
+
+---
+
+⭐ *Turning data into intelligent solutions.*
