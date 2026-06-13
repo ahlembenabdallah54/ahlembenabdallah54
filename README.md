@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" alt="Ahlem Banner" />
+</p>
 # Hi 👋, I'm Ahlem Ben Abdallah
 
 ### 🤖 AI & Data Science Enthusiast | Full-Stack Developer | Master's Student
