@@ -18,22 +18,50 @@ Building intelligent applications with AI, RAG Systems, Automation, and Modern W
 
 ## 🚀 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,nestjs,vue,spring,mongodb,mysql,postgres,git,github,vscode,postman,pytorch" />
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,nestjs,vue,spring" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+### 🛠️ Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+### 🤖 AI & Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch" />
   <img src="https://cdn.simpleicons.org/pandas" width="48" height="48" alt="Pandas"/>
   <img src="https://cdn.simpleicons.org/langchain" width="48" height="48" alt="LangChain"/>
   <img src="https://cdn.simpleicons.org/ollama" width="48" height="48" alt="Ollama"/>
-  <img src="https://cdn.simpleicons.org/powerbi" width="48" height="48" alt="Power BI"/>
-  <img src="https://cdn.simpleicons.org/n8n" width="48" height="48" alt="n8n"/>
 </p>
 
----
+### 📊 Business Intelligence
 
-## 📊 GitHub Stats
+<p>
+  <img src="https://cdn.simpleicons.org/powerbi" width="48" height="48" alt="Power BI"/>
+</p>
 
-![Ahlem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=tokyonight)
+### ⚡ Automation & AI Agents
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=tokyonight)
+<p>
+  <img src="https://cdn.simpleicons.org/n8n" width="48" height="48" alt="n8n"/>
+</p>
 
 ---
 
@@ -42,7 +70,6 @@ Building intelligent applications with AI, RAG Systems, Automation, and Modern W
 * Agentic AI Systems
 * Advanced RAG Architectures
 * AI Agents & Automation
-* LLM Applications
 * Scalable Full-Stack Development
 
 ---
